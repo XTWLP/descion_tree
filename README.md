@@ -6,4 +6,15 @@
 ![Image text](https://github.com/XTWLP/descion_tree/blob/main/id-3/decision_tree_ID3.png)
 
 ## CART结果
+
 + 未剪枝
+
+![Image text](https://github.com/XTWLP/descion_tree/blob/main/cart/decision_tree_full.png)
+
++ 预剪枝
+
+![Image text](https://github.com/XTWLP/descion_tree/blob/main/cart/decision_tree_pre.png)
+
++ 后剪枝
+
+![Image text](https://github.com/XTWLP/descion_tree/blob/main/cart/decision_tree_post.png)
